@@ -5,5 +5,3 @@ class Author
 end
 
 author = Author.new
-
-  
